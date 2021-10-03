@@ -13,7 +13,7 @@
 | Pangeo | [![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/lsterzinger/maptimedavis-fsspec/main) |
 
 ### Running locally
-The best option to run this notebook is locally, since generating the references can be easily parallelized with Dask. Clone the repo, create and activate the environment, and launch Jupyter Lab.
+The best option to run this notebook is locally, since generating the references can be easily parallelized with Dask. Clone the repo, create and activate the environment (recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html)), and launch Jupyter Lab. 
 
 ```
 git clone https://github.com/lsterzinger/maptimedavis-fsspec
