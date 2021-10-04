@@ -16,4 +16,5 @@ dependencies:
   - eccodes
   - numpy<=1.20.0
   - zstandard
+  - graphviz
   - pip:
