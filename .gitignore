@@ -171,3 +171,4 @@ cython_debug/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode,python
+.vscode/settings.json
