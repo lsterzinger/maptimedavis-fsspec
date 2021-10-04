@@ -3,29 +3,23 @@ channels:
   - conda-forge
   - default
 dependencies:
-  - python=3.8
+  - pangeo-notebook==2021.02.07
   - pip
   - fsspec-reference-maker
   - fsspec
   - s3fs
-  - xarray
-  - matplotlib
-  - ujson
-  - dask
   - h5py
-  - jupyterlab
-  - nodejs
+  - xarray[complete]
   - metpy
   - cartopy
   - cfgrib
   - eccodes
   - numpy<=1.20.0
+  - zstandard
+  - hvplot
+  - geoviews
   - intake
   - intake-xarray
-  - zstandard
+  - datashader
   - pip:
-    - dask_labextension
-    - hvplot
-    - geoviews
-    - datashader
-    - bokeh
+    - graphviz
