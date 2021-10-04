@@ -8,7 +8,7 @@ dependencies:
   - fsspec-reference-maker
   - fsspec
   - s3fs
-  - xarray
+  - xarray[complete]
   - matplotlib
   - ujson
   - dask
