@@ -13,7 +13,7 @@ dependencies:
   - ujson
   - dask
   - h5py
-  - jupyterlab
+  - jupyterlab<3.0.0
   - nodejs
   - metpy
   - cartopy
