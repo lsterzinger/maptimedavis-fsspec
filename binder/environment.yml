@@ -9,13 +9,17 @@ dependencies:
   - fsspec
   - s3fs
   - h5py
-  - xarray
+  - xarray[complete]
   - metpy
   - cartopy
   - cfgrib
   - eccodes
   - numpy<=1.20.0
   - zstandard
-  - graphviz
   - hvplot
+  - geoviews
+  - intake
+  - intake-xarray
+  - datashader
   - pip:
+    - graphviz
