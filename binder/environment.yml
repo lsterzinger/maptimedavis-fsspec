@@ -21,5 +21,6 @@ dependencies:
   - intake
   - intake-xarray
   - datashader
+  - tornado>=6.1.0
   - pip:
     - graphviz
