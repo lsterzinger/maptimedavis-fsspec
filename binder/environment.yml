@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - default
 dependencies:
-  - pangeo-notebook==2021.02.07
+  - pangeo-notebook==2021.09.30
   - pip
   - fsspec-reference-maker
   - fsspec
