@@ -21,5 +21,4 @@ dependencies:
   - intake
   - intake-xarray
   - datashader
-  - pip:
-    - graphviz
+  - graphviz
