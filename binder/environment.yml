@@ -1,11 +1,11 @@
-name: fsspec-reference-maker
+name: kerchunk
 channels:
   - conda-forge
   - default
 dependencies:
-  - pangeo-notebook==2021.02.07
+  - pangeo-notebook
   - pip
-  - fsspec-reference-maker
+  - kerchunk
   - fsspec
   - s3fs
   - h5py
@@ -14,7 +14,7 @@ dependencies:
   - cartopy
   - cfgrib
   - eccodes
-  - numpy<=1.20.0
+  - numpy
   - zstandard
   - hvplot
   - geoviews
