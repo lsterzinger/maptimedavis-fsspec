@@ -16,7 +16,7 @@ __Note: Pangeo Binder not currently working -- mybinder.org instance too small t
 ### Running locally
 If able, the best option to run this notebook is locally, since generating the references can be easily parallelized with Dask. Clone the repo, create and activate the environment (recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html)), and launch Jupyter Lab. 
 
-_Tip: Use [Mamba](https://github.com/mamba-org/mamba) instead of Conda for faster environment installation
+_Tip: Use [Mamba](https://github.com/mamba-org/mamba) instead of Conda for faster environment installation_
 
 ```
 git clone https://github.com/lsterzinger/maptimedavis-fsspec
